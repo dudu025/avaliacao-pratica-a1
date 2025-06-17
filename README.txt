@@ -1,3 +1,6 @@
+Aluno: Eduardo Rodrigo Soares da Guarda
+RGM: 34694510
+
 Tema escolhido:
 Sistema de cadastro e gerenciamento de receitas com autenticação de usuários.
 
